@@ -8,7 +8,7 @@ const reverseString = function (word) {
   return strWord;
 };
 
-console.log(reverseString("hello"));
+reverseString("");
 
 // Do not edit below this line
 module.exports = reverseString;
